@@ -1,2 +1,2 @@
 # CMOS-Inverter
-Simple Cmos Inverter using Cadence Virtuoso
+- This includes analysis and design of a CMOS invertor using Cadence Virtuoso
