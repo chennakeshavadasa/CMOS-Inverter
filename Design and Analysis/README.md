@@ -25,7 +25,6 @@ This is the Analysis of CMOS Inverter
 - Noise Margin
 - Inverter Delay
     - Propagation Delay
-      - Calculation of Overall capacitance  
 - How to Improve Design Technique ?
   - Reduce Load Capacitance
   - Increase Transistor sizing
