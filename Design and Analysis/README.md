@@ -10,16 +10,17 @@ This is the Analysis of CMOS Inverter
 - **Case 1: Vin=0 (logic 0)**
   - Here PMOS is ON (Saturation region) and acts as a Current Source.
   - NMOS is OFF (cutoff).
-  - The NMOS acts as a Open Circuit and PMOS acts as a resistor (short circuit for Ideal Case), this enables the Load Capacitor to get Charged with time constant(𝜏=RpCL).
 - **Case 2: Vin=VDD (logic 1)**
    - Here NMOS is ON (saturation region).
    - PMOS is OFF (cutoff).
-  - The PMOS acts as a Open Circuit and NMOS acts as a resistor (short circuit for Ideal Case), this enables the Load Capacitor to get Discharged with time constant(𝜏=RnCL).
+ 
 
 # Switch Model
 <p align="center">
 <img src="https://github.com/chennakeshavadasa/CMOS-Inverter/assets/123294639/b082889c-7a76-430e-9c53-3bf6c6993bd1" >
 </p>
+- The NMOS acts as a Open Circuit and PMOS acts as a resistor (short circuit for Ideal Case), this enables the Load Capacitor to get Charged with time constant(𝜏=RpCL).
+ - The PMOS acts as a Open Circuit and NMOS acts as a resistor (short circuit for Ideal Case), this enables the Load Capacitor to get Discharged with time constant(𝜏=RnCL).
 
 # Voltage Transfer Characterisitics
 <p align="center">
