@@ -26,20 +26,18 @@ This is the Analysis of CMOS Inverter
 
 # Voltage Transfer Characterisitics
 
-<p align="center">
-  <img src="https://github.com/chennakeshavadasa/CMOS-Inverter/assets/123294639/efc173f5-5ad5-478e-af08-51188d37a400" alt="Image 1">
-</p>
+![image](https://github.com/chennakeshavadasa/CMOS-Inverter/assets/123294639/99218b1e-ce77-4c7b-9be8-91c80c5961e3)
 
 - Here ID is mirroring around X axis
  
-<p align="center">
-  <img src="https://github.com/chennakeshavadasa/CMOS-Inverter/assets/123294639/c222b0ed-ebcd-48e7-ae6b-91abc45dbc01" alt="Image 2">
-</p>
+![image](https://github.com/chennakeshavadasa/CMOS-Inverter/assets/123294639/48467720-c38e-406b-bbae-a554bcea6e32)
+
+- Here ID is horizontally Siftef over VDD
+
 
 <p align="center">
 <img src="https://github.com/chennakeshavadasa/CMOS-Inverter/assets/123294639/68744562-90b0-4a91-82fc-610fe2b8e783" >
 </p>
-- Here ID is horizontally Siftef over VDD
 
 # Major Issues 
 - Noise Margin
