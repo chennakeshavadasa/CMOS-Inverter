@@ -45,7 +45,7 @@ This is the Analysis of CMOS Inverter
   - VGSp = Vin - VDD
   - VDSn = Vout
   - VDSp = Vout - VDD
-  - 
+
 <p align="center">  
 <img src="https://github.com/chennakeshavadasa/CMOS-Inverter/assets/123294639/ae06ad2f-b02c-4b87-90cf-5a58bb5e5385" >
 </p>
