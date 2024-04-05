@@ -86,6 +86,9 @@
 ![image](https://github.com/chennakeshavadasa/CMOS-Inverter/assets/123294639/a623f563-9976-4636-bfc4-f84459db0c41)
 - We get rise time(tr)=1.284700e-09
 - Now lets increase the sie of NMOS and PMOS . Put Wpmos=8u and Wnmos=4u
+ ![image](https://github.com/chennakeshavadasa/CMOS-Inverter/assets/123294639/02f126b3-fe33-49b5-a6f1-7fe312940b46)
+- We get rise time(tr)=6.332000e-10
+
   
      
 
