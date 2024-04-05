@@ -21,4 +21,13 @@ This is the Analysis of CMOS Inverter
 <img src="https://github.com/chennakeshavadasa/CMOS-Inverter/assets/123294639/b082889c-7a76-430e-9c53-3bf6c6993bd1" >
 </p>
 
+# Major Issues 
+- Noise Margin
+- Inverter Delay
+    - Propagation Delay
+      - Calculation of Overall capacitance  
+- How to Improve Design Technique ?
+  - Reduce Load Capacitance
+  - Increase Transistor sizing
+  - Increase VDD (Power Consumption)
      
