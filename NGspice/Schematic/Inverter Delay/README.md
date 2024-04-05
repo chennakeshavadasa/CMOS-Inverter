@@ -18,4 +18,4 @@
   
   ```
   name=Vin value="PULSE(0 1.8 0 0.1n 0.1n 3n 6.6n 5)" savecurrent=false
-```
+  ```
