@@ -1,5 +1,5 @@
 # CMOS-Inverter
-- This includes Design and Analysis of a simple CMOS invertor using Cadence Virtuoso and NGspice EDA.
+- This includes Design and Analysis of a simple CMOS invertor using Cadence Virtuoso and NGspice EDA tool.
 
 # Circuit
 <p align="center">
