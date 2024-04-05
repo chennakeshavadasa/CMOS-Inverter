@@ -67,5 +67,7 @@
       print tr
   - We get rise time(tr)=3.460800e-11 which is close to 3.477600e-11, so there is not much difference because this unloaded device so we are gettiing same tr
 # Loaded CMOS Inverter
+ ![image](https://github.com/chennakeshavadasa/CMOS-Inverter/assets/123294639/c156fb0b-7c88-4b9e-86bb-99d5e44353dd)
+
  - Here we put Load Capacitance = 1pF and simulate it.
 
