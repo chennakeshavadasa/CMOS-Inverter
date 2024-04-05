@@ -1,0 +1,6 @@
+name="VTC" only_toplevel=false 
+value="
+.lib /Respective file directory to file sky130.lib.spice.tt
+.dc Vin 0 1.8 1m 
+.save all
+.end "
