@@ -49,7 +49,7 @@
       print tf
 - I got fall time(tf) = 3.05029e-11
 - Now to improve the design let us decrease the power consumption .
- - put VDD=1 and simulate the test bench
+  - put VDD=1 and simulate the test bench
 - Calculate rise time(tr)
    ```
       meas tran t10 when vout=.1 RISE=1
