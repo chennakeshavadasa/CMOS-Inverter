@@ -1,0 +1,1 @@
+- This is written notes for Design and Analysis of CMOS Inverter
