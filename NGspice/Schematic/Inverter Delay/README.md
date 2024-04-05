@@ -20,12 +20,12 @@
     name=Vin value="PULSE(0 1.8 0 0.1n 0.1n 3n 6.6n 5)" savecurrent=false
  
 -  Commands to check and obtain time delay of the inverter without input delay
-  ```
-    meas tran vin50 when vin=0.9 RISE=2
-    meas tran vout50 when vout=0.9 FALL=2
-    let tpHL=vout50-vin50
-    print tpHL
-  ```
+     ```
+       meas tran vin50 when vin=0.9 RISE=2
+       meas tran vout50 when vout=0.9 FALL=2
+       let tpHL=vout50-vin50
+       print tpHL
+     ```
 
 - The Output I got
   ```
