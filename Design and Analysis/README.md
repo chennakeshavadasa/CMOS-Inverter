@@ -26,12 +26,13 @@ This is the Analysis of CMOS Inverter
 
 # Voltage Transfer Characterisitics
 
-<div style="text-align:center">
-  
-    ![image](https://github.com/chennakeshavadasa/CMOS-Inverter/assets/123294639/efc173f5-5ad5-478e-af08-51188d37a400)
+<p align="center">
+  <img src="https://github.com/chennakeshavadasa/CMOS-Inverter/assets/123294639/efc173f5-5ad5-478e-af08-51188d37a400" alt="Image 1">
+</p>
 
-    ![image](https://github.com/chennakeshavadasa/CMOS-Inverter/assets/123294639/c222b0ed-ebcd-48e7-ae6b-91abc45dbc01)
-</div>
+<p align="center">
+  <img src="https://github.com/chennakeshavadasa/CMOS-Inverter/assets/123294639/c222b0ed-ebcd-48e7-ae6b-91abc45dbc01" alt="Image 2">
+</p>
 
 
 
