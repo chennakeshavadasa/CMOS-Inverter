@@ -39,6 +39,16 @@ This is the Analysis of CMOS Inverter
 
 - Here ID is horizontally Siftef over VDD
 
+- Governing Equation
+  - IDSp = -IDSn
+  - VGn = Vin
+  - VGSp = Vin - VDD
+  - VDSn = Vout
+  - VDSp = Vout - VDD
+  - 
+<p align="center">  
+<img src="https://github.com/chennakeshavadasa/CMOS-Inverter/assets/123294639/ae06ad2f-b02c-4b87-90cf-5a58bb5e5385" >
+</p>
 
 <p align="center">
 <img src="https://github.com/chennakeshavadasa/CMOS-Inverter/assets/123294639/68744562-90b0-4a91-82fc-610fe2b8e783" >
