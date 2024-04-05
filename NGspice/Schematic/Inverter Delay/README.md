@@ -74,10 +74,10 @@
 
  - Here we put Load Capacitance = 1pF and simulate it. But this results in output not settling so lets increase clock frequency at Vin
     ```
-       name=Vin value="PULSE(0 1.8 0 0.1n 0.1n 5n 10n 10)" savecurrent=false
+       name=Vin value="PULSE(0 1.8 0 0.1n 0.1n 10n 20n 10)" savecurrent=false
 - Change code_show.sym transient analysis to
    ```
-   .tran .02n 20n
+   .tran .02n 40n
 -   
      
 
