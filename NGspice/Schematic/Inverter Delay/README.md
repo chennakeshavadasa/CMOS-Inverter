@@ -57,3 +57,4 @@
       let tr=t90-t10
  - We get rise time(tr)=6.006500e-11
 - Now lets put VDD=1.8 again but increase W of PMOS and NMOS and increase the Power Consumption
+  - put Wpmos=4u and Wnmos=2u
