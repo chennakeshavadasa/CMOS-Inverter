@@ -12,4 +12,4 @@
 
 # References
 - The Design an Analysis of the CMOS Inverter is mainly based on NPTEL Lectures by Prof. Sudeb Dasgupta of IIT Roorkee
-- Playlist: https://youtube.com/playlist?list=PLLy_2iUCG87C-GS7B4vJ37Iz3fevmYU1h&si=CvUY7mu56ZpEneTe
+- Playlist: [link](https://youtube.com/playlist?list=PLLy_2iUCG87C-GS7B4vJ37Iz3fevmYU1h&si=CvUY7mu56ZpEneTe) .
