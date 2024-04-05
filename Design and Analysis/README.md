@@ -49,7 +49,9 @@ This is the Analysis of CMOS Inverter
 <p align="center">  
 <img src="https://github.com/chennakeshavadasa/CMOS-Inverter/assets/123294639/ae06ad2f-b02c-4b87-90cf-5a58bb5e5385" >
 </p>
+
 - The points where both NMOS ans PMOS Voltages will be same , the current will also be same in magnitude with relation IDSp = -IDSn
+- We only have those Voltages that are either low or either very high.
 
 <p align="center">
 <img src="https://github.com/chennakeshavadasa/CMOS-Inverter/assets/123294639/68744562-90b0-4a91-82fc-610fe2b8e783" >
