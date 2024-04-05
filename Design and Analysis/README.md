@@ -21,6 +21,9 @@ This is the Analysis of CMOS Inverter
 <img src="https://github.com/chennakeshavadasa/CMOS-Inverter/assets/123294639/b082889c-7a76-430e-9c53-3bf6c6993bd1" >
 </p>
 
+# Voltage Transfer Characterisitics
+![image](https://github.com/chennakeshavadasa/CMOS-Inverter/assets/123294639/68744562-90b0-4a91-82fc-610fe2b8e783)
+
 # Major Issues 
 - Noise Margin
 - Inverter Delay
