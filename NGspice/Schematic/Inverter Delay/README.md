@@ -65,3 +65,5 @@
       meas tran t90 when vout=1.6 RISE=1
       let tr=t90-t10
       print tr
+  - We get rise time(tr)=3.460800e-11 which is close to 3.477600e-11, so there is not much difference 
+
