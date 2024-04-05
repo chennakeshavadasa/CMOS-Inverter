@@ -55,6 +55,13 @@
       meas tran t10 when vout=.1 RISE=1
       meas tran t90 when vout=.9 RISE=1
       let tr=t90-t10
+      print tr
  - We get rise time(tr)=6.006500e-11
 - Now lets put VDD=1.8 again but increase W of PMOS and NMOS and increase the Power Consumption
   - put Wpmos=4u and Wnmos=2u
+ - Calculate rise time(tr)
+   ```
+      meas tran t10 when vout=.18 RISE=1
+      meas tran t90 when vout=1.6 RISE=1
+      let tr=t90-t10
+      print tr
