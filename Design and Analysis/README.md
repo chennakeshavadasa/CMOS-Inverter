@@ -26,7 +26,7 @@ This is the Analysis of CMOS Inverter
 
 # Voltage Transfer Characterisitics
 
-![image](https://github.com/chennakeshavadasa/CMOS-Inverter/assets/123294639/99218b1e-ce77-4c7b-9be8-91c80c5961e3)
+![image](https://github.com/chennakeshavadasa/CMOS-Inverter/assets/123294639/052cf4eb-2f2d-4577-a5fb-3aba90e9d915)
 
 - Here ID is mirroring around X axis
  
