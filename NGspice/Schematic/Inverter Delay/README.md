@@ -72,5 +72,8 @@
 # Loaded CMOS Inverter
  ![image](https://github.com/chennakeshavadasa/CMOS-Inverter/assets/123294639/c156fb0b-7c88-4b9e-86bb-99d5e44353dd)
 
- - Here we put Load Capacitance = 1pF and simulate it.
+ - Here we put Load Capacitance = 1pF and simulate it. But this results in output not settling so lets increase clock frequency at Vin
+    ```
+       name=Vin value="PULSE(0 1.8 0 0.1n 0.1n 5n 6.6n 5)" savecurrent=false
+
 
