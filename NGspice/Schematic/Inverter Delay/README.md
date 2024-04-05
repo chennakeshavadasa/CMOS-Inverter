@@ -1,6 +1,6 @@
 # Output
 - Commands in terminal
-- 
+  
 # With Input Propagation Delay
 
 -  Commands to check and obtain time delay of the inverter with input delay
