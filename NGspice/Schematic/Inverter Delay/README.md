@@ -38,3 +38,13 @@ ngspice 6 -> print tpHL
 tphl = 1.835000e-11
 ngspice 7 ->
 ```
+- Calculate Rise Time
+  ```
+  let vout10=1.8
+  let vout90=1.6
+  meas tran t10 when vout=.18 RISE=1
+  meas tran t10 when vout=1.6 RISE=1
+  let tr=t90-t10
+  print t10
+  ```
+  
