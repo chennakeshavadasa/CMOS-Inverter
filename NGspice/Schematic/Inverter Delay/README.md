@@ -83,6 +83,8 @@
 
 - For the same rise time commands ,We get rise time(tr) = 2.559230e-09
 - Now do the same for a capacitance of 0.5pF
+![image](https://github.com/chennakeshavadasa/CMOS-Inverter/assets/123294639/a623f563-9976-4636-bfc4-f84459db0c41)
+- We get rise time(tr)=1.284700e-09
   
      
 
