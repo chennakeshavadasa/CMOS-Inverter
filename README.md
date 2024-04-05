@@ -8,3 +8,7 @@
 
 - CMOS Inverter is a widely used circuit in VLSI design for Digital circuits as inverting gate and Analog circuits as amplifier
 - Here we mainly focus on Digital Circuit application of CMOS Inverter
+
+# References
+- The Design an Analysis of the CMOS Inverter is mainly based on NPTEL Lectures of Prof. Sudeb Dasgupta of IIT Roorkee
+- Playlist: https://youtube.com/playlist?list=PLLy_2iUCG87C-GS7B4vJ37Iz3fevmYU1h&si=CvUY7mu56ZpEneTe
