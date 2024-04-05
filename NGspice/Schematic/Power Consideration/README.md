@@ -10,4 +10,5 @@
     print power_inter
     print power_inter/20e-09
  ```
+- I got a power Consumption of 81.4848μW
 - Here Layout is also very important to reduce the parascitic capacitance . which also has a big role in Power consumption
