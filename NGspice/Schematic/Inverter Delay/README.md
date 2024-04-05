@@ -10,8 +10,6 @@
    meas tran vout50 when vout=0.9 FALL=2
    let tpHL=vout50-vin50
    print tpHL
-  
-
 # Without Input Propagation Delay
 
 - To remove the input Propagation Delay, simply make the vin pulse faster with code for Vin
@@ -25,8 +23,7 @@
        meas tran vout50 when vout=0.9 FALL=2
        let tpHL=vout50-vin50
        print tpHL
-     ```
-
+     
 - The Output I got
   ```
     ngspice 3 -> meas tran vin50 when vin=0.9 RISE=2
