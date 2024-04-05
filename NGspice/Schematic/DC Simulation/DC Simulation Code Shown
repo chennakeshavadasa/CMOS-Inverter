@@ -1,0 +1,6 @@
+name="DC_simulation" only_toplevel=false 
+value="
+.lib /Respective file directory to file sky130.lib.spice.tt
+.dc Vgs 0 1.8 1m vds 0 1.8 0.5
+.save all
+.end "
