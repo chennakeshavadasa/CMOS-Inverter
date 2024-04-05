@@ -78,7 +78,7 @@
 - Change code_show.sym transient analysis to
    ```
    .tran .02n 20n
-   
+-   
      
 
 
