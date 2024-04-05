@@ -26,11 +26,16 @@ This is the Analysis of CMOS Inverter
 
 # Voltage Transfer Characterisitics
 
-![image](https://github.com/chennakeshavadasa/CMOS-Inverter/assets/123294639/052cf4eb-2f2d-4577-a5fb-3aba90e9d915)
+<p align="center">
+  <img src="https://github.com/chennakeshavadasa/CMOS-Inverter/assets/123294639/052cf4eb-2f2d-4577-a5fb-3aba90e9d915" alt="Image 1">
+</p>
 
 - Here ID is mirroring around X axis
- 
-![image](https://github.com/chennakeshavadasa/CMOS-Inverter/assets/123294639/48467720-c38e-406b-bbae-a554bcea6e32)
+
+
+<p align="center">
+  <img src="https://github.com/chennakeshavadasa/CMOS-Inverter/assets/123294639/48467720-c38e-406b-bbae-a554bcea6e32" alt="Image 2">
+</p>
 
 - Here ID is horizontally Siftef over VDD
 
