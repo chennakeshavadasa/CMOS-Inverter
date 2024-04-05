@@ -65,4 +65,7 @@ This is the Analysis of CMOS Inverter
   - Reduce Load Capacitance
   - Increase Transistor sizing
   - Increase VDD (Power Consumption)
+
+# Noise Margin 
+-
      
