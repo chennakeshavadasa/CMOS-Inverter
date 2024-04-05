@@ -44,7 +44,7 @@
       let vout10=1.8
       let vout90=1.6
       meas tran t10 when vout=.18 RISE=1
-      meas tran t10 when vout=1.6 RISE=1
+      meas tran t90 when vout=1.6 RISE=1
       let tr=t90-t10
       print t10    
   ```
