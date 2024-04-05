@@ -10,4 +10,4 @@
     print power_inter
     print power_inter/20e-09
  ```
-- here Layout is also very important to reduce the parascitic capacitance . which also has a big role in Power consumption
+- Here Layout is also very important to reduce the parascitic capacitance . which also has a big role in Power consumption
