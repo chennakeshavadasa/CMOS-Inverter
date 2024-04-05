@@ -12,3 +12,6 @@
  ```
 - I got a power Consumption of 81.4848μW
 - Here Layout is also very important to reduce the parascitic capacitance . which also has a big role in Power consumption
+- So when i reduce Cload to 0.1pF
+- ![image](https://github.com/chennakeshavadasa/CMOS-Inverter/assets/123294639/bd840170-6dbb-40a4-8cfb-e7eb66c499b3)
+- We get a Power Consumption of 16.6695μW, which is a huge reduction compared to previous case
