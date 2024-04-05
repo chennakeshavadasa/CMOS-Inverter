@@ -28,7 +28,7 @@
   ```
 
 - The Output I got
-```
+  ```
     ngspice 3 -> meas tran vin50 when vin=0.9 RISE=2
     vin50               =  6.650000e-09
     ngspice 4 -> meas tran vout50 when vout=0.9 FALL=2
@@ -37,7 +37,7 @@
     ngspice 6 -> print tpHL
     tphl = 1.835000e-11
     ngspice 7 ->
-```
+  ```
 
 - Calculate Rise Time
   ```
