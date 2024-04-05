@@ -46,6 +46,14 @@
       meas tran t10 when vout=.18 RISE=1
       meas tran t90 when vout=1.6 RISE=1
       let tr=t90-t10
-      print t10    
+      print tr    
   ```
-  
+  - I got rise time(tr) = 3.477600e-11
+  - 
+  - Calculate fall Time
+  ```
+      meas tran t10 when vout=.18 FALL=1
+      meas tran t90 when vout=1.6 FALL=1
+      let tf=t10-t90
+      print tf
+- I got fall time(tf) = 3.05029e-11
