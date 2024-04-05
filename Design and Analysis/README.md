@@ -25,6 +25,11 @@ This is the Analysis of CMOS Inverter
 - The PMOS acts as a Open Circuit and NMOS acts as a resistor (short circuit for Ideal Case), this enables the Load Capacitor to get Discharged with time constant(𝜏=RnCL).
 
 # Voltage Transfer Characterisitics
+![image](https://github.com/chennakeshavadasa/CMOS-Inverter/assets/123294639/5da41980-b9a1-412e-ae3a-b9e1e1d5d9b1
+
+![image](https://github.com/chennakeshavadasa/CMOS-Inverter/assets/123294639/c222b0ed-ebcd-48e7-ae6b-91abc45dbc01)
+
+
 <p align="center">
 <img src="https://github.com/chennakeshavadasa/CMOS-Inverter/assets/123294639/68744562-90b0-4a91-82fc-610fe2b8e783" >
 </p>
