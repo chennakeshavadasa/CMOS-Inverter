@@ -37,7 +37,6 @@
     ngspice 6 -> print tpHL
     tphl = 1.835000e-11
     ngspice 7 ->
-  ```
 
 - Calculate Rise Time
   ```
@@ -47,10 +46,10 @@
       meas tran t90 when vout=1.6 RISE=1
       let tr=t90-t10
       print tr    
-  ```
-  - I got rise time(tr) = 3.477600e-11
-  - 
-  - Calculate fall Time
+  
+- I got rise time(tr) = 3.477600e-11
+ 
+- Calculate fall Time
   ```
       meas tran t10 when vout=.18 FALL=1
       meas tran t90 when vout=1.6 FALL=1
