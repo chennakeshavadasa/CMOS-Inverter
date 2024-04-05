@@ -7,7 +7,7 @@
 </p>
 
 - CMOS Inverter is a fundamental building block used in design of Digital ICs as inverting(NOT) gate.
-- They are also used in Analog circuits as Amplifier.
+- They are also used in Analog ICs as an Amplifier.
 - Here we mainly focus on Digital Circuit application of CMOS Inverter.
 
 # References
