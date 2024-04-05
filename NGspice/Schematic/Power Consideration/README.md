@@ -1,4 +1,6 @@
 # Power Calculations
+![image](https://github.com/chennakeshavadasa/CMOS-Inverter/assets/123294639/5476131a-fafd-4381-b406-bbb76d836fea)
+
 - To calculate power we need VDD and current drawn from VDD
 - Here we donot need DC Analysis, so remove it and run transient analysis and bring back the Wpmos=2u and Wnm=1u
 - To calculate the the Intermediate Power we need to calculate, so we Integrate Id from 20n to 40n and multiply with VDD(VDD=1.8) to obtain intermediate power.
