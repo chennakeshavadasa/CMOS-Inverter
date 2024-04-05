@@ -26,7 +26,7 @@
   let tpHL=vout50-vin50
   print tpHL
 ```
-The Output I got
+- The Output I got
 
 ```
 ngspice 3 -> meas tran vin50 when vin=0.9 RISE=2
