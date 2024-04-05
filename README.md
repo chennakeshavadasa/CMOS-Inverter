@@ -3,7 +3,8 @@
 
 # Circuit
 <p align="center">
-  <img src="https://github.com/chennakeshavadasa/CMOS-Inverter/assets/123294639/ae2d444a-fbad-47ab-8c0c-07a17661e63e" alt="CMOS Inverter">
+  <img src="![image](https://github.com/chennakeshavadasa/CMOS-Inverter/assets/123294639/8d3bb92a-f8d5-44cf-9e23-82012db141fc)
+" alt="CMOS Inverter">
 </p>
 
 - CMOS Inverter is a fundamental building block used in design of Digital ICs as inverting(NOT) gate.
