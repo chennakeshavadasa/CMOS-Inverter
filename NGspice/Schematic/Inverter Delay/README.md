@@ -15,6 +15,7 @@
 # Without Input Propagation Delay
 
 - To remove the input Propagation Delay, simply make the vin pulse faster with code for Vin
+  
   ```
   name=Vin value="PULSE(0 1.8 0 0.1n 0.1n 3n 6.6n 5)" savecurrent=false
 ```
