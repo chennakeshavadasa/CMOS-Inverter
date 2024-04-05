@@ -12,7 +12,7 @@
    print tpHL
 # Without Input Propagation Delay
 
-![VTC_Tesetbench](https://github.com/chennakeshavadasa/CMOS-Inverter/assets/123294639/74f0ec35-a47c-49c0-974e-78bbb3c03c5b)
+![image](https://github.com/chennakeshavadasa/CMOS-Inverter/assets/123294639/065b0d5c-0373-4b6f-a143-a2135c3fc579)
 
 
 - To remove the input Propagation Delay, simply make the vin pulse faster with code for Vin
