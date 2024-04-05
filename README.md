@@ -1,13 +1,14 @@
 # CMOS-Inverter
-- This includes analysis and design of a CMOS invertor using Cadence Virtuoso and NGspice
-# Circuit
+- This includes Design and Analysis of a simple CMOS invertor using Cadence Virtuoso and NGspice EDA.
 
+# Circuit
 <p align="center">
   <img src="https://github.com/chennakeshavadasa/CMOS-Inverter/assets/123294639/ae2d444a-fbad-47ab-8c0c-07a17661e63e" alt="CMOS Inverter">
 </p>
 
-- CMOS Inverter is a widely used circuit in VLSI design for Digital circuits as inverting gate and Analog circuits as amplifier
-- Here we mainly focus on Digital Circuit application of CMOS Inverter
+- CMOS Inverter is a fundamental building block used in design of Digital ICs as inverting(NOT) gate.
+- They are also used in Analog circuits as Amplifier.
+- Here we mainly focus on Digital Circuit application of CMOS Inverter.
 
 # References
 - The Design an Analysis of the CMOS Inverter is mainly based on NPTEL Lectures of Prof. Sudeb Dasgupta of IIT Roorkee
