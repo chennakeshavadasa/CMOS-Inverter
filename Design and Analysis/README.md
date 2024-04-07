@@ -58,20 +58,39 @@ This is the Analysis of CMOS Inverter
 </p>
 
 ## Major Issues 
-- Noise Margin
-- Inverter Delay
-    - Propagation Delay
+- Noise Margin.
+- Inverter Delay.
+    - Propagation Delay.
 - How to Improve Design Technique ?
-  - Reduce Load Capacitance
-  - Increase Transistor sizing
-  - Increase VDD (Power Consumption)
+  - Reduce Load Capacitance.
+  - Increase Transistor sizing.
+  - Increase VDD (Power Consumption).
 
 ## Noise Margin 
-- We expect switching to happen somewhere near VDD/2, So Switching thereshold = VDD/2
-- NMH=Voh-Vil, For Ideal Case NMH=NML= VDD/2
-- We lower VDD, Noise margin will also be lower, so its property to reject noise will be compromised
+- We expect switching to happen somewhere near VDD/2, So Switching thereshold = VDD/2.
+- NMH=Voh-Vil, For Ideal Case NMH=NML= VDD/2.
+- We lower VDD, Noise margin will also be lower, so its property to reject noise will be compromised.
 
 ## Propagation delay
 
-- 
-     
+- We get tPHL= 0.69ReqnCL and tPLH= 0.69ReqpCL.
+- Overall propagation delay = 0.69CL(Reqn+Reqp)/2.
+- For tPHL=tPLH then Reqp=Reqn, but Reqp>Reqn. For tPHL=tPLH, we need to make width=3W, so Resistance reduces to Reqp so that Reqp=Reqn.
+- For skewed transistor (tPHL=tPLH).
+- Non skewed transistor (tPHL<tPLH).
+
+## Capacitance that affect the design
+- Gate drain Capacitance(Cgd12)
+- Diffusion Capacitance(Cdb1,2)
+- Wiring Capacitance(Cw)
+- Gate Capacitance of fanout(Cg3,4)
+
+## How to improve design 
+- Reduce CL
+- Increase transistor sizing
+- Increase VDD
+
+## Optimal value of NMOS to PMOS Ratio
+- While improving the PMOS width improves tPLH of the inverter by increasing the charging current, it also degrades the charging current. It degrades the tPHL by causing a large parascitic Capacitance
+- β=Wp/Wn
+- We get βopt=sqrt(1+ Cw/(Cdn1+Cdn2))
