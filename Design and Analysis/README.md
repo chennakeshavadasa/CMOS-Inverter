@@ -80,17 +80,25 @@ This is the Analysis of CMOS Inverter
 - Non skewed transistor (tPHL<tPLH).
 
 ## Capacitance that affect the design
-- Gate drain Capacitance(Cgd12)
-- Diffusion Capacitance(Cdb1,2)
-- Wiring Capacitance(Cw)
-- Gate Capacitance of fanout(Cg3,4)
+- Gate drain Capacitance(Cgd12).
+- Diffusion Capacitance(Cdb1,2).
+- Wiring Capacitance(Cw).
+- Gate Capacitance of fanout(Cg3,4).
 
 ## How to improve design 
-- Reduce CL
-- Increase transistor sizing
-- Increase VDD
+- Reduce CL.
+- Increase transistor sizing.
+- Increase VDD.
 
 ## Optimal value of NMOS to PMOS Ratio
-- While improving the PMOS width improves tPLH of the inverter by increasing the charging current, it also degrades the charging current. It degrades the tPHL by causing a large parascitic Capacitance
-- β=Wp/Wn
-- We get βopt=sqrt(1+ Cw/(Cdn1+Cdn2))
+- While improving the PMOS width improves tPLH of the inverter by increasing the charging current, it also degrades the charging current. It degrades the tPHL by causing a large parascitic Capacitance.
+- β=Wp/Wn.
+- We get βopt=sqrt(r(1+ Cw/(Cdn1+Cdn2))), where r=Reqp/Reqn.
+
+## Sizing of Inverter Chain
+- For an Inverter CL= Cint+Cext.
+- tp=tp0(1+Cext/Cint), where tp0=0.69ReqCint.
+- We have tp=tp0(1+f/γ), where γ= proportional constant and f=Cext/Cint.
+- the delay of the inverter is a function of the ratio between external load capacitor and its intrinsic capacitance.
+- Cg,i=sqrt(Cg,j+1 * Cg,j-1)
+- tp=Ntp0(1+(f/γ)^1/n)
