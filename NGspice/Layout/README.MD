@@ -1,3 +1,3 @@
 # Layout
 
-https://raw.githubusercontent.com/chennakeshavadasa/CMOS-Inverter/main/NGspice/Layout/Layout2.png
+![Circuit Diagram](https://raw.githubusercontent.com/chennakeshavadasa/CMOS-Inverter/main/NGspice/Layout/Layout2.png)
