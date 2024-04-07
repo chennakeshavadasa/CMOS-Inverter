@@ -100,7 +100,9 @@ This is the Analysis of CMOS Inverter
 
 ## Sizing of Inverter Chain
 
-![image](https://github.com/chennakeshavadasa/CMOS-Inverter/assets/123294639/73541ee4-93ed-40fd-97ee-ae7167a64777)
+<p align="center">
+<img src="https://github.com/chennakeshavadasa/CMOS-Inverter/assets/123294639/73541ee4-93ed-40fd-97ee-ae7167a64777" >
+</p>
 - For an Inverter CL= Cint+Cext.
 - tp=tp0(1+Cext/Cint), where tp0=0.69ReqCint.
 - We have tp=tp0(1+f/γ), where γ= proportional constant and f=Cext/Cint.
