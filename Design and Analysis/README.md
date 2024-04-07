@@ -1,12 +1,12 @@
 # Design and Analysis
 This is the Analysis of CMOS Inverter
 
-# Circuit
+## Circuit
 <p align="center">
   <img src="https://github.com/chennakeshavadasa/CMOS-Inverter/assets/123294639/ae2d444a-fbad-47ab-8c0c-07a17661e63e" alt="CMOS Inverter">
 </p>
 
-# Basic Operation
+## Basic Operation
 - **Case 1: Vin=0 (logic 0)**
   - Here PMOS is ON (Saturation region) and acts as a Current Source.
   - NMOS is OFF (cutoff).
@@ -15,7 +15,7 @@ This is the Analysis of CMOS Inverter
    - PMOS is OFF (cutoff).
  
 
-# Switch Model
+## Switch Model
 
 <p align="center">
 <img src="https://github.com/chennakeshavadasa/CMOS-Inverter/assets/123294639/b082889c-7a76-430e-9c53-3bf6c6993bd1" >
@@ -24,7 +24,7 @@ This is the Analysis of CMOS Inverter
 - The NMOS acts as a Open Circuit and PMOS acts as a resistor (short circuit for Ideal Case), this enables the Load Capacitor to get Charged with time constant(𝜏=RpCL).
 - The PMOS acts as a Open Circuit and NMOS acts as a resistor (short circuit for Ideal Case), this enables the Load Capacitor to get Discharged with time constant(𝜏=RnCL).
 
-# Voltage Transfer Characterisitics
+## Voltage Transfer Characterisitics
 
 <p align="center">
   <img src="https://github.com/chennakeshavadasa/CMOS-Inverter/assets/123294639/052cf4eb-2f2d-4577-a5fb-3aba90e9d915" alt="Image 1">
@@ -57,7 +57,7 @@ This is the Analysis of CMOS Inverter
 <img src="https://github.com/chennakeshavadasa/CMOS-Inverter/assets/123294639/68744562-90b0-4a91-82fc-610fe2b8e783" >
 </p>
 
-# Major Issues 
+## Major Issues 
 - Noise Margin
 - Inverter Delay
     - Propagation Delay
@@ -66,6 +66,12 @@ This is the Analysis of CMOS Inverter
   - Increase Transistor sizing
   - Increase VDD (Power Consumption)
 
-# Noise Margin 
--
+## Noise Margin 
+- We expect switching to happen somewhere near VDD/2, So Switching thereshold = VDD/2
+- NMH=Voh-Vil, For Ideal Case NMH=NML= VDD/2
+- We lower VDD, Noise margin will also be lower, so its property to reject noise will be compromised
+
+## Propagation delay
+
+- 
      
