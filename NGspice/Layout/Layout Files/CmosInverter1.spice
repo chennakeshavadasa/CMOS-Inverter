@@ -1,0 +1,5 @@
+* SPICE3 file created from /home/nithinpuru/git_magic/open_pdks/sky130/magic/CmosInverter1.ext - technology: sky130A
+
+X0 out in a_160_n590# a_160_n590# sky130_fd_pr__nfet_01v8 ad=0.45 pd=2.9 as=0.45 ps=2.9 w=1 l=0.15
+X1 out in vdd vdd sky130_fd_pr__pfet_01v8 ad=1.05 pd=5.2 as=1.05 ps=5.2 w=2.1 l=0.15
+C0 vdd a_160_n590# 2.355f **FLOATING
