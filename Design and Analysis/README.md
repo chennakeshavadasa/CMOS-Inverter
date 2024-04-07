@@ -1,5 +1,5 @@
 # Design and Analysis
-This is the Analysis of CMOS Inverter
+ Analysis of CMOS Inverter
 
 ## Circuit
 <p align="center">
