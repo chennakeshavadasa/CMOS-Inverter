@@ -67,6 +67,8 @@ This is the Analysis of CMOS Inverter
   - Increase VDD (Power Consumption).
 
 ## Noise Margin 
+<p align="center"> <img src="https://github.com/chennakeshavadasa/CMOS-Inverter/assets/123294639/108fba64-167d-470e-b175-205537b823ca" > </p>
+
 - We expect switching to happen somewhere near VDD/2, So Switching thereshold = VDD/2.
 - NMH=Voh-Vil, For Ideal Case NMH=NML= VDD/2.
 - We lower VDD, Noise margin will also be lower, so its property to reject noise will be compromised.
