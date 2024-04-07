@@ -101,4 +101,5 @@ This is the Analysis of CMOS Inverter
 - We have tp=tp0(1+f/γ), where γ= proportional constant and f=Cext/Cint.
 - the delay of the inverter is a function of the ratio between external load capacitor and its intrinsic capacitance.
 - Cg,i=sqrt(Cg,j+1 * Cg,j-1)
+- The optimum size of each inverter is the geometric mean of its neighbour.
 - tp=Ntp0(1+(f/γ)^1/n)
