@@ -82,6 +82,8 @@ This is the Analysis of CMOS Inverter
 - Non skewed transistor (tPHL<tPLH).
 
 ## Capacitance that affect the design
+<p align="center"> <img src="https://github.com/chennakeshavadasa/CMOS-Inverter/assets/123294639/cfc1d6e2-0b76-422b-8d3b-ead6d249334e" > </p>
+
 
 - Gate drain Capacitance(Cgd12).
 - Diffusion Capacitance(Cdb1,2).
