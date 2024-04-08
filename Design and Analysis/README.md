@@ -1,6 +1,6 @@
 # Design and Analysis
  Analysis of CMOS Inverter
- Refer the notes for detailed Analysis [Notes](https://github.com/chennakeshavadasa/CMOS-Inverter/blob/main/Design%20and%20Analysis/CmosInverter_DesignAnalysis.pdf) .
+ Refer the [notes](https://github.com/chennakeshavadasa/CMOS-Inverter/blob/main/Design%20and%20Analysis/CmosInverter_DesignAnalysis.pdf) for detailed Analysis.
 
 ## Circuit
 <p align="center">
